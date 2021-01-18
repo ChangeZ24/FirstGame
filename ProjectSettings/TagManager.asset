@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cherry
+  - Gem
+  - Enemies
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3186064793
+    locked: 0
+  - name: environment
+    uniqueID: 1711801989
+    locked: 0
+  - name: ground
+    uniqueID: 3303183033
+    locked: 0
+  - name: player
+    uniqueID: 855167407
+    locked: 0
+  - name: enemies
+    uniqueID: 3529709319
+    locked: 0
+  - name: frontground
+    uniqueID: 2842857429
+    locked: 0
